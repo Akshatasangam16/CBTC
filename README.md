@@ -1,2 +1,2 @@
-# CBTC
+# CBTCIP
 CipherByte Technologies Internship Project
